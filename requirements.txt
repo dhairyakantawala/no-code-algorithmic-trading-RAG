@@ -1,0 +1,8 @@
+pinecone
+yfinance
+pandas
+backtrader
+langchain_openai
+langchain_pinecone
+langchain
+langchain-community
